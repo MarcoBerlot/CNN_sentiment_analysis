@@ -1,4 +1,4 @@
-# CNN_sentiment_analysis
+#  SENTIMENT ANALYSIS USING CONVOLUTIONAL NEURAL NETWORKS
 
 ## Introduction:
 The purpose of this project was to recreate the CNN for NLP model from Kim EMNLP 2014 for Sentiment Analysis. This CNN model was trained on the Stanford Sentiment Treebank dataset. Six different experiments were run and different values of accuracy and performance were analysed for each method.
